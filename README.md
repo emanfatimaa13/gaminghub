@@ -3,16 +3,6 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://your-username.github.io/gaming-store/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge)](https://github.com/your-username/gaming-store)
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Products Page
-![Products Page](screenshots/products.png)
-
-### Admin Panel
-![Admin Panel](screenshots/admin.png)
 
 ## ✨ Features
 
